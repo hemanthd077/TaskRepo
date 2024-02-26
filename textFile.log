@@ -1,0 +1,25 @@
+Feb 05, 2024 2:00:25 PM runner.BasicProgrammingRunner main
+SEVERE: Enter Integer not String
+Feb 05, 2024 2:00:25 PM runner.BasicProgrammingRunner main
+WARNING: Exited Successfully
+Feb 05, 2024 2:11:44 PM runner.BasicProgrammingRunner main
+INFO: --Date Operation--
+Feb 05, 2024 2:11:44 PM runner.BasicProgrammingRunner main
+INFO: 
+Current Date and Time : 2024-02-05T14:11:44.813459
+Feb 05, 2024 2:11:44 PM runner.BasicProgrammingRunner main
+INFO: currentTime in milliseconds : 1707122504816
+Feb 05, 2024 2:11:44 PM runner.BasicProgrammingRunner main
+INFO: 
+New York Time : 2024-February-05 03:41:44
+Feb 05, 2024 2:11:44 PM runner.BasicProgrammingRunner main
+INFO: London Time : 2024-February-05 08:41:44
+Feb 05, 2024 2:11:44 PM runner.BasicProgrammingRunner main
+INFO: Differece time between :5:0:0
+Feb 05, 2024 2:11:44 PM runner.BasicProgrammingRunner main
+INFO: 
+The day of the millisecond : MONDAY
+Feb 05, 2024 2:11:44 PM runner.BasicProgrammingRunner main
+INFO: The Month of the millisecond : FEBRUARY
+Feb 05, 2024 2:11:44 PM runner.BasicProgrammingRunner main
+INFO: The Year of the millisecond : 2024
